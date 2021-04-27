@@ -82,28 +82,28 @@ analytics:
 author:
   name             : "Dr Jaison Paul Mulerikkal CMI"
   avatar           : "profile.png"
-  bio              : "Vice Principal and Professor in Information Technology"
+  bio              : "Professor, IT, Rajagiri School of Engineering & Technology"
   location         : "Kochi, Kerala, India"
-  employer         : "Rajagiri School of Engineering and Technology"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"https://www.facebook.com/jaison.cmi"
+  facebook         : "https://www.facebook.com/jaison.cmi"
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/jaisonmpaul"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jaisonmpaul/"
+  orcid            : "https://orcid.org/0000-0002-5266-2159"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
