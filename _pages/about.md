@@ -21,5 +21,4 @@ Technical skills:
   - High research related skills like latex, plot, gnuplot, scripts, etc. 
   - Comfortable working knowledge with network, web, machintosh and linux systems.
 
-
-Acknoledgment: This site is forked from the git repo: [academicpages.github.io](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
+Thank you for being here!
