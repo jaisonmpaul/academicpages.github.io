@@ -1,17 +1,12 @@
 ---
 permalink: /
-title: "Academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Profile: Jaison Paul Mulerikkal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-Profile: Jaison Paul Mulerikkal
-======
 Jaison Paul Mulerikkal is the Vice Principal and a Professor in Information Technology of Rajagiri School of Engineering and Technology (Autonomous), Kochi, India. He is the founding director of Śūnya Labs at RSET. He is a civil engineer by profession, but did his Masters in Information Systems from RMIT University, Melbourne, Australia and subsequently received his PhD in High Performance Scientific Computing from the Australian National University. He had worked as a computational scientist at the University of Auckland, New Zealand. He had also served as the Principal of Jyothi Engineering College, Thrissur, Kerala. 
 
 
