@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jaison Mulerikkal"
 title_separator          : "-"
-name                     : &name "Fr Jaison Paul Mulerikkal, Ph. D"
+name                     : &name "Dr Jaison Paul Mulerikkal, CMI"
 description              : &description "Professor, Rajagiri School of Engineering and Technology (Autonomous)"
 url                      : "https://jaisonmpaul.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :"https://www.facebook.com/jaison.cmi"
+  facebook         : #"https://www.facebook.com/jaison.cmi"
   foursquare       :
   github           : #"academicpages"
   google_plus      :
