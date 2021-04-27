@@ -23,4 +23,3 @@ Technical skills:
 
 
 Acknoledgment: This site is forked from [the repo: academicpages.github.io](https://academicpages.github.io/). 
-# This theme was forked from [the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
