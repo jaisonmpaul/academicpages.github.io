@@ -88,13 +88,13 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  #"https://www.researchgate.net/profile/Jaison-Mulerikkal"
+  researchgate     :  "https://www.researchgate.net/profile/Jaison-Mulerikkal"
   uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/jaison.cmi"
+  facebook         : "jaison.cmi"
   foursquare       :
   github           : "jaisonmpaul"
   google_plus      :
