@@ -13,4 +13,4 @@ Jaison Paul Mulerikkal is the Vice Principal and a Professor in Information Tech
 
 Acknowledgment
 ------
-This site is forked from academicpages and can be found at [the guide](https://academicpages.github.io/markdown/). This theme was forked from [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+This site is forked from academicpages and can be found at [the git repo](https://academicpages.github.io/). This theme was forked from [the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
