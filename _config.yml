@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jaison Paul"
 description              : &description "Vice Principal of and a Professor in Information Technology at Rajagiri School of Engineering and Technology (Autonomous), Kochi, India. "
 url                      : "https://jaisonmpaul.github.io/academicpages.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "jaisonmpaul/academicpages.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "jaisonmpaul/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
