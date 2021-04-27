@@ -10,9 +10,6 @@ redirect_from:
 Jaison Paul Mulerikkal is the Vice Principal and a Professor in Information Technology of [Rajagiri School of Engineering and Technology (Autonomous)](http://www.rajagiritech.ac.in){:target="_blank" rel="noopener"}, Kochi, India. He is the founding director of Śūnya Labs at RSET. He is a civil engineer by profession, but did his Masters in Information Systems from [RMIT University](http://www.rmit.edu.au){:target="_blank" rel="noopener"}, Melbourne, Australia and subsequently received his PhD in High Performance Scientific Computing from the [Australian National University](http://www.anu.edu.au){:target="_blank" rel="noopener"}. He had worked as a computational scientist at the University of Auckland, New Zealand. He had also served as the Principal of [Jyothi Engineering College](http://www.jecc.ac.in){:target="_blank" rel="noopener"}, Thrissur, Kerala. 
 
 
-Test 2
-
-
 Acknowledgment
 ------
-This site is forked from academicpages and can be found at [this git repo](https://academicpages.github.io/). This theme was forked from [the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+This site is forked from [this git repo](https://academicpages.github.io/). This theme was forked from [the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
