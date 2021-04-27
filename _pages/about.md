@@ -22,6 +22,5 @@ Technical skills:
   - Comfortable working knowledge with network, web, machintosh and linux systems.
 
 
-Acknowledgment
-------
-This site is forked from [this git repo](https://academicpages.github.io/). This theme was forked from [the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Acknoledgment: This site is forked from [the repo: academicpages.github.io](https://academicpages.github.io/). 
+# This theme was forked from [the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
