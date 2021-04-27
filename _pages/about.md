@@ -22,4 +22,4 @@ Technical skills:
   - Comfortable working knowledge with network, web, machintosh and linux systems.
 
 
-Acknoledgment: This site is forked from [the repo: academicpages.github.io](https://academicpages.github.io/). 
+Acknoledgment: This site is forked from the git repo: [academicpages.github.io](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
