@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /contact/
+title: "Contact Me"
 author_profile: true
 redirect_from:
-  - /md/
-  - /markdown.html
+  - /cont/
+  - /contact.html
 ---
 
 ## <center> Rajagiri School of Engineering and Technology </center>
